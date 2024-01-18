@@ -10,7 +10,7 @@
 
 打工人，打工魂，打工都是人上人...
 
-<img style="max-width: 300px" align="left" src=".images/debug.gif">
+<img style="width: 300px" align="left" src=".images/debug.gif">
 
 <!-- ![dino](.images/dino.gif) -->
 ![snake](.images/snake.svg)
